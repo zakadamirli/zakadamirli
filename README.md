@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakadamirli&label=Profile%20views&color=0e75b6&style=flat" alt="zakadamirli" /> </p>
 
-- 🔭 I’m currently working on **IATC**
+- 🌱 I’m currently learning **Java**
 
-- 🌱 I’m currently learning **Html, Css, JavaScript**
+- 👯 I’m looking to collaborate on **Backend Web Developers**
 
-- 👯 I’m looking to collaborate on **Web Developers**
-
-- 💬 Ask me about **Front End**
+- 💬 Ask me about **Back End**
 
 - 📫 How to reach me **z3kkadamirli@gmail.com**
 
